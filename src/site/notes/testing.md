@@ -3,3 +3,5 @@
 ---
 
 Hi there, just testing :) 
+
+[[here's a sample page\|here's a sample page]]
